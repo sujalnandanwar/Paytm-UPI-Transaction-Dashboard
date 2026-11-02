@@ -83,19 +83,6 @@ The dashboard is meant to help business and operations teams monitor performance
 
 ---
 
-## 📂 Repository Structure
-
-```
-Paytm-UPI-Transaction-Dashboard/
-│
-├── data/
-│   └── paytm_upi_transactions.csv     # Dataset (add your data file)
-├── Paytm_UPI_Dashboard.xlsx           # Dashboard workbook
-├── dashboard-preview.png              # Dashboard screenshot
-└── README.md                          # Project documentation
-```
-
-> Update the file names above to match the files you actually upload.
 
 ---
 
@@ -106,8 +93,7 @@ Paytm-UPI-Transaction-Dashboard/
    git clone https://github.com/sujalnandanwar/Paytm-UPI-Transaction-Dashboard.git
    ```
 2. Open the dashboard workbook in **Microsoft Excel**
-3. Use the slicers (State, Gender, Bank Name, Payment Mode) to filter the data
-4. Explore the charts – all visuals update as per the selected filters
+
 
 ---
 
@@ -134,7 +120,7 @@ Paytm-UPI-Transaction-Dashboard/
 ## 👤 Author
 
 **Sujal Manoj Nandanwar**
-BCA Student | Aspiring Data Analyst
+BCA Graduate | Aspiring Data Analyst
 
 - 📧 Email: sujalnandanwar2@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/sujalnandanwar](https://linkedin.com/in/sujalnandanwar)
